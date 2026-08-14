@@ -1,3 +1,5 @@
+> **Hinweis zur Einordnung:** Dieses Repository ist eine persönliche Test- bzw. Lernkopie eines bestehenden Open-Source-Projekts. Ich bin nicht der ursprüngliche Autor und beanspruche das Projekt nicht als eigene Entwicklung. Maßgeblich sind das Originalprojekt, dessen Autoren und dessen Lizenzhinweise.
+
 # MeTube
 
 ![Build Status](https://github.com/alexta69/metube/actions/workflows/main.yml/badge.svg)
